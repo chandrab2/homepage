@@ -3,6 +3,7 @@ role: Senior Research Scientist
 avatar_filename: avatar.jpg
 bio: "My research interests include commonsense reasoning and generation. "
 interests:
+  - Commonsense
   - NLP
 social:
   - icon: envelope
