@@ -1,6 +1,6 @@
 ---
 role: Senior Research Scientist
-avatar_filename: profile_chandrab.jpg
+avatar_filename: avatar.jpg
 bio: "My research interests include commonsense reasoning and generation. "
 interests:
   - NLP
